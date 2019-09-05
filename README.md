@@ -1,1 +1,1 @@
-App que realiza o cálculo do IMC.
+Projeto em Android que realizar cálculo do IMC.
